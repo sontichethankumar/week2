@@ -1,2 +1,2 @@
-# week2
-WasteClassificationCNN
+# WasteClassificationCNN
+Week 2
